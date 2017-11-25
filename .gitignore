@@ -2,3 +2,5 @@
 *.npz
 *.jpg
 *checkpoint*
+*.gz
+*data*
